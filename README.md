@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Spencer Abbott
 
-<!--
-**Spencer-Abbott/Spencer-Abbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sr. Identity and Access Management (IAM) Engineer
 
-Here are some ideas to get you started:
+### 🛠️ Top Skills & Tech Stack
+- **Languages/Scripting:** Bash, PowerShell, Python
+- **IAM & Directory Services:** Active Directory, SailPoint, Okta, PingFederate
+- **Cloud Platforms:** Azure, AWS
+- **APIs:** Design, integration, and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Notable Projects
+- **Automated User Provisioning with SailPoint & Okta**
+- **Custom PowerShell scripts for AD management**
+- *(Feel free to add repo links or more project details!)*
+
+### 🎯 Fun Facts & Interests
+- I love exploring the intersection of identity management and cloud security.
+- I spin Poi, fire and lights.
+- When I'm not working, I'm listening to drum and bass or playing games.
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/iam-spencer-abbott/)
+- *(Add more links: Twitter, website, etc. if you want)*
+
+---
+
+**Preferred Style:** Professional with a friendly touch.  
+Always open to collaboration and sharing knowledge!
